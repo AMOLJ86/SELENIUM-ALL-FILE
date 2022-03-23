@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="java.awt.Point"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.Point"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.Dimension"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
     <fullyQualifiedTypeName name="org.apache.poi.sl.usermodel.Sheet"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
@@ -16,7 +15,6 @@
     <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.WorkbookFactory"/>
     <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Sheet"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
@@ -31,6 +29,15 @@
     <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="com.Utility.BaseClass"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.How"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="com.PageObject.pomclasses"/>
+    <fullyQualifiedTypeName name="com.PageObject.Loginpom"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+    <fullyQualifiedTypeName name="com.Utility.Library"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Parameters"/>
 </qualifiedTypeNameHistroy>

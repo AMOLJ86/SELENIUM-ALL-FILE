@@ -1,0 +1,9 @@
+package com.PageObject;
+
+
+public class pomclasses {
+	
+	@FindBy(how=How.XPATH,using("//input[@id='email']"))//
+	private WebElement email;
+
+}
