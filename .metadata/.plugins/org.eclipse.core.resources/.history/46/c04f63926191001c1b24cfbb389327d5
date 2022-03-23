@@ -1,0 +1,10 @@
+package Selenium1;
+
+public class WEbDriverMethod2 {
+	
+	System.setProperty("webdriver.chrome.driver", "D:/Software/chrome/chromedriver.exe");
+
+	
+	
+
+}

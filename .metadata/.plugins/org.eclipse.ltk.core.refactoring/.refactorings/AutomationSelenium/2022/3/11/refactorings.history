@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;TestNG.NewTestNG&apos; to &apos;TestNG_Priority&apos;&#x0D;&#x0A;- Original project: &apos;AutomationSelenium&apos;&#x0D;&#x0A;- Original element: &apos;TestNG.NewTestNG&apos;&#x0D;&#x0A;- Renamed element: &apos;TestNG.TestNG_Priority&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NewTestNG&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;TestNG{NewTestNG.java[NewTestNG" matchStrategy="1" name="TestNG_Priority" qualified="false" references="true" similarDeclarations="false" stamp="1646900786849" textual="false" version="1.0"/>
+</session>

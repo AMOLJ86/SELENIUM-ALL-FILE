@@ -1,0 +1,6 @@
+package FaileTestScreenshot;
+
+public class ListenerTest implements ITestListener{
+	
+	
+}
